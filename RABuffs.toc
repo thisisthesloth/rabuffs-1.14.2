@@ -1,0 +1,18 @@
+## Interface: 11402
+## Title: RABuffs
+## Notes: Monitors a raid / party group, displaying various statistics. (1.14.2 / HermesProxy port)
+## OptionalDeps: CT_RaidAssist, SlashHelp
+## SavedVariables: RABui_Settings
+## SavedVariablesPerCharacter: RABui_IsUIShown
+## X-Version: 0.10.3
+## X-URL: http://www.curse-gaming.com
+RABuffs_compat.lua
+RABuffs_strings.lua
+localization_en.lua
+RABuffs_core.lua
+RABuffs_data.lua
+RABuffs_ctra.lua
+RABuffs_net.lua
+RABuffs_ui.lua
+RABuffs_vui.lua
+RABuffs.xml
